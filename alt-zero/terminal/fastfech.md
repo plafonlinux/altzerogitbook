@@ -51,3 +51,17 @@ fastfetch --logo PostMarketOS_small -c '/home/plafon/Документы/Fastfetc
 ```bash
 alias n="fastfetch --logo PostMarketOS_small -c '/home/plafon/Документы/Fastfetch/plafonfetch.jsonc'"
 ```
+
+### Кастомная тема с ASCII Art
+
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-01-11 20-41-57.png" alt=""><figcaption></figcaption></figure>
+
+01\. Скачиваем архив с конфигом
+
+{% file src="../../.gitbook/assets/2025.zip" %}
+
+02\. Запускам fastfetch с указанием пути до конфига
+
+```bash
+fastfetch -c /путь/до-конфига.conf
+```
