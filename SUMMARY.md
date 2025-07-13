@@ -72,6 +72,7 @@
   * [Warehouse](alt-zero/apps/warehouse.md)
   * [Flatseal](alt-zero/apps/flatseal.md)
   * [Brother принтер](alt-zero/apps/brother-printer.md)
+  * [Monic Monitor Control](alt-zero/apps/monic-monitor-control.md)
 * [🏕️ Расширения](alt-zero/extensions/README.md)
   * [Менеджер расширений](alt-zero/extensions/manager.md)
   * [AppIndicator and Kstatus](alt-zero/extensions/appindicator-and-kstatus.md)
