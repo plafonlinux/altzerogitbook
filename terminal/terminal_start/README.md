@@ -12,7 +12,7 @@ description: Терминал в Линуксе это просто!
 
 ### Детальная настройка Терминала:
 
-{% embed url="https://plafon.gitbook.io/alt-zero/alt-zero/terminal" %}
+{% embed url="https://plafon.gitbook.io/alt-zero/terminal" %}
 
 {% hint style="success" %}
 Не робейте! Уже через пару дней, терминал станет для вас отличным помощником в управлении вашей системой.
