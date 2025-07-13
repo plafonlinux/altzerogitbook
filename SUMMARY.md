@@ -1,40 +1,33 @@
 # Table of contents
 
-## О проекте
-
-* [🚀 Проект PLAFON](README.md)
-* [💖 Правила нашего проекта](o-proekte/pravila.md)
-* [🦉 В самом начале ...](o-proekte/start/README.md)
-  * [Установка ALT Linux](o-proekte/start/ustanovka.md)
-  * [Включаем sudo](o-proekte/start/sudo.md)
-  * [Обновление системы](o-proekte/start/upgrade.md)
-  * [EPM](o-proekte/start/epm.md)
-  * [Не запускаются Flatpak-и](o-proekte/start/flatpak_bwrap.md)
-  * [Как включить Alt+Shift в GNOME](o-proekte/start/altshift_gnome.md)
-  * [Меняем версию ядра](o-proekte/start/kernel.md)
-  * [Доп. настройки GNOME](o-proekte/start/tweaks.md)
-  * [Терминал. Начало ...](o-proekte/start/terminal_start/README.md)
-    * [Включаем "шорткат" для Терминала](o-proekte/start/terminal_start/shortcut_terminal.md)
-    * [Консольные команды для GNU/Linux](o-proekte/start/terminal_start/terminal_all.md)
-    * [VIM](o-proekte/start/terminal_start/vim.md)
-  * [Включаем дробное масштабирование](o-proekte/start/scale_on.md)
-  * [Права доступа в Линуксе](o-proekte/start/rules.md)
-  * [Как примонтировать диск в систему](o-proekte/start/mount.md)
-* [📦 Репозитории](o-proekte/repo/README.md)
-  * [Сизиф (Sisyphus)](o-proekte/repo/sisyphus.md)
-  * [Flathub](o-proekte/repo/flathub.md)
-* [🖥️ Видеокарты](o-proekte/videokarta/README.md)
-  * [AMD RADEON](o-proekte/videokarta/amd/README.md)
-    * [Разгон видеокарты AMD](o-proekte/videokarta/amd/razgon_radeon.md)
-    * [LACT](o-proekte/videokarta/amd/lact.md)
-    * [Утилита CoreCtrl](o-proekte/videokarta/amd/corectrl.md)
-  * [NVIDIA](o-proekte/videokarta/nvidia/README.md)
-    * [Установка драйверов](o-proekte/videokarta/nvidia/nvidiadrivers.md)
-    * [Разгон видеокарты NVIDIA](o-proekte/videokarta/nvidia/razgon_nvidia.md)
-    * [Утилита GWE](o-proekte/videokarta/nvidia/gwe.md)
-
-***
-
+* [🦉 В самом начале ...](README.md)
+  * [Установка ALT Linux](start/ustanovka.md)
+  * [Включаем sudo](start/sudo.md)
+  * [Обновление системы](start/upgrade.md)
+  * [EPM](start/epm.md)
+  * [Не запускаются Flatpak-и](start/flatpak_bwrap.md)
+  * [Как включить Alt+Shift в GNOME](start/altshift_gnome.md)
+  * [Меняем версию ядра](start/kernel.md)
+  * [Доп. настройки GNOME](start/tweaks.md)
+  * [Терминал. Начало ...](start/terminal_start/README.md)
+    * [Включаем "шорткат" для Терминала](start/terminal_start/shortcut_terminal.md)
+    * [Консольные команды для GNU/Linux](start/terminal_start/terminal_all.md)
+    * [VIM](start/terminal_start/vim.md)
+  * [Включаем дробное масштабирование](start/scale_on.md)
+  * [Права доступа в Линуксе](start/rules.md)
+  * [Как примонтировать диск в систему](start/mount.md)
+* [📦 Репозитории](repo/README.md)
+  * [Сизиф (Sisyphus)](repo/sisyphus.md)
+  * [Flathub](repo/flathub.md)
+* [🖥️ Видеокарты](videokarta/README.md)
+  * [AMD RADEON](videokarta/amd/README.md)
+    * [Разгон видеокарты AMD](videokarta/amd/razgon_radeon.md)
+    * [LACT](videokarta/amd/lact.md)
+    * [Утилита CoreCtrl](videokarta/amd/corectrl.md)
+  * [NVIDIA](videokarta/nvidia/README.md)
+    * [Установка драйверов](videokarta/nvidia/nvidiadrivers.md)
+    * [Разгон видеокарты NVIDIA](videokarta/nvidia/razgon_nvidia.md)
+    * [Утилита GWE](videokarta/nvidia/gwe.md)
 * [💻 Приложения](apps/README.md)
   * [Flatpak](apps/flatpak.md)
   * [Nautilus](apps/nautilus.md)
@@ -118,6 +111,14 @@
 * [🧬 Виртуализация](virtualka/README.md)
   * [Gnome Boxes](virtualka/gnome-boxes.md)
   * [QEMU (Virt-manager)](virtualka/qemu-virt-manager.md)
+
+## О проекте
+
+* [🚀 Проект PLAFON](<README (1).md>)
+* [💖 Правила нашего проекта](o-proekte/pravila.md)
+
+***
+
 * [💰 Помощь проекту](donate.md)
 
 ## 🐧 ALT ZERO
