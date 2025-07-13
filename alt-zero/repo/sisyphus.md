@@ -125,7 +125,7 @@ Sisyphus можно использовать в качестве основы д
 
 </details>
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2024-08-09 09-33-27.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-13 11-09-19.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://packages.altlinux.org/ru/sisyphus/" %}
 

@@ -107,6 +107,7 @@
     * [Grub-btrfs](alt-zero/backup/timeshift/grub-btrfs.md)
 * [🗃️ Терминал](alt-zero/terminal/README.md)
   * [Терминал на ZSH](alt-zero/terminal/zsh.md)
+  * [Alacritty](alt-zero/terminal/alacritty.md)
   * [Fastfech](alt-zero/terminal/fastfech.md)
   * [Алиасы](alt-zero/terminal/alias.md)
   * [Brother принтер](alt-zero/terminal/brother-printer.md)
