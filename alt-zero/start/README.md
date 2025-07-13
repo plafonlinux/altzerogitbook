@@ -14,6 +14,8 @@ ALT Linux это отечественный дистрибутив, поддер
 Что такое Альт Линукс (ALT Linux)
 {% endembed %}
 
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-12 16-23-08.png" alt=""><figcaption></figcaption></figure>
+
 ### Какие версии Альт Линукс существуют?
 
 {% hint style="info" %}
@@ -66,13 +68,13 @@ ALT Linux это отечественный дистрибутив, поддер
 Официальный сайт компании Базальт СПО
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-06-10 08-50-34.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-13 10-49-21.png" alt=""><figcaption></figcaption></figure>
 
-### Рабочая станция | Workstation (Рабочее окружение MATE)
+### Рабочая станция | Workstation ( GNOME)
 
 {% embed url="https://www.basealt.ru/alt-workstation" %}
 
-### Рабочая станция K | Workstation K (Рабочее окружение KDE 5.\*)
+### Рабочая станция K | Workstation K (KDE Plasma)
 
 {% embed url="https://www.basealt.ru/alt-workstation-k" %}
 
