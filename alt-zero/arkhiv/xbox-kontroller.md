@@ -4,7 +4,7 @@ description: Как подключить Xbox контроллер в ALT Linux
 
 # Xbox контроллер
 
-<figure><img src="../.gitbook/assets/1634980031764 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1634980031764 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ### - Драйвер для этого _Wireless донгла_, называется **xone**
 
@@ -14,7 +14,7 @@ description: Как подключить Xbox контроллер в ALT Linux
 
 01\. Устанавливаем заголовки ядра
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ```
 epms kernel-headers
@@ -64,7 +64,7 @@ sudo ./install.sh --release
 cd install && sudo sh firmware.sh
 ```
 
-<figure><img src="../.gitbook/assets/Снимок экрана от 2023-06-10 16-15-28.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-06-10 16-15-28.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Перезапускаем ПК и должно всё заработать, геймпад законектится и перестанет мигать! 😎👌
