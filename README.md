@@ -48,6 +48,8 @@ ALT Linux это отечественный дистрибутив, поддер
 
 <figure><img src=".gitbook/assets/414px-Alt_linux_logo.svg.png" alt="ALT linux, Альт Линукс"><figcaption></figcaption></figure>
 
+<figure><img src=".gitbook/assets/Снимок экрана от 2025-07-13 10-57-24.png" alt=""><figcaption></figcaption></figure>
+
 С недавнего времени Альт Рабочая станция переехала с рабочего окружения Mate на GNOME и теперь для желающих получить стабильный LTS дистрибутив на своей рабочей машине, может смело вместо "болванки" на StarterKit использовать готовый вариант от [basealt.ru](https://www.basealt.ru/alt-workstation)
 
 {% embed url="https://www.basealt.ru/alt-workstation" %}
