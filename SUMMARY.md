@@ -4,7 +4,7 @@
   * [Установка ALT Linux](start/ustanovka.md)
   * [Включаем sudo](start/sudo.md)
   * [Обновление системы](start/upgrade.md)
-  * [Настройки ядра](start/nastroiki-yadra.md)
+  * [Linux Kernel](start/kernel.md)
   * [EPM (eepm-help)](start/epm.md)
   * [Дополнительные настройки](start/dopolnitelnye-nastroiki/README.md)
     * [Доп. настройки GNOME](start/dopolnitelnye-nastroiki/tweaks.md)
