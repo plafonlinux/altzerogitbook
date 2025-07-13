@@ -4,6 +4,7 @@
   * [Установка ALT Linux](start/ustanovka.md)
   * [Включаем sudo](start/sudo.md)
   * [Обновление системы](start/upgrade.md)
+  * [Настройки ядра](start/nastroiki-yadra.md)
   * [EPM](start/epm.md)
   * [Не запускаются Flatpak-и](start/flatpak_bwrap.md)
   * [Как включить Alt+Shift в GNOME](start/altshift_gnome.md)
