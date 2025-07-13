@@ -5,7 +5,7 @@
   * [Включаем sudo](start/sudo.md)
   * [Обновление системы](start/upgrade.md)
   * [Настройки ядра](start/nastroiki-yadra.md)
-  * [EPM (eepm-help)](start/epm-eepm-help.md)
+  * [EPM (eepm-help)](start/epm.md)
   * [Дополнительные настройки](start/dopolnitelnye-nastroiki/README.md)
     * [Доп. настройки GNOME](start/dopolnitelnye-nastroiki/tweaks.md)
     * [Как включить Alt+Shift в GNOME](start/dopolnitelnye-nastroiki/altshift_gnome.md)

@@ -2,7 +2,7 @@
 description: Упрощённая надстройка пакетного менедженра для ALT Linux от компании Ethersoft
 ---
 
-# EPM
+# EPM (eepm-help)
 
 <details>
 
@@ -32,6 +32,8 @@ EPM - единая команда управления пакетами, раз�
 EEPM - Консольный справочник по EPM
 
 ## eepm-help: справка по пакетному менеджеру EPM от Etersoft в терминале
+
+{% embed url="https://github.com/pbarovsky/eepm-help" %}
 
 <div><figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/1.png" alt=""><figcaption></figcaption></figure></div>
 
