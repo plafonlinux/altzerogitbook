@@ -56,7 +56,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 ### В [Рабочей станции](https://www.basealt.ru/alt-workstation) 2 варианта рабочего стола
 
-<img src="https://www.basealt.ru/fileadmin/user_upload/products/screens_work/11/1_11__1__1.png" alt="Альт Рабочая станция 8" data-size="original"><img src=".gitbook/assets/image (2).png" alt="" data-size="original">
+<div><figure><img src=".gitbook/assets/Frame_1283.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/1_11__1__1.png" alt=""><figcaption></figcaption></figure></div>
 
 ### Где скачать нужный Альт Линукс (ALT Linux) ?!
 
