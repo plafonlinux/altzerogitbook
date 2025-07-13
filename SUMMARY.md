@@ -84,6 +84,7 @@
   * [Dash to Panel](alt-zero/extensions/dash-to-panel.md)
   * [Rounded Window Corners Reborn](alt-zero/extensions/rounded-window-corners-reborn.md)
   * [Quick Settings Tweaker](alt-zero/extensions/quick-settings-tweaker.md)
+  * [Auto Accent Colour](alt-zero/extensions/auto-accent-colour.md)
 * [🍁 Внешний вид](alt-zero/look/README.md)
   * [Иконки Papirus](alt-zero/look/papirus.md)
   * [Цветные папки](alt-zero/look/papirus_folder.md)
