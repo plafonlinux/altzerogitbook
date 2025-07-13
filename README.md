@@ -4,7 +4,7 @@ description: Самый ламповый о линуксе ...
 
 # 🚀 Проект PLAFON
 
-<figure><img src=".gitbook/assets/PXL_20230610_082344850.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Снимок экрана от 2025-07-12 16-23-08.png" alt=""><figcaption></figcaption></figure>
 
 ALT Zero - это текстовой помощник от проекта PLAFON для детальной настройки дистрибутива ALT Linux и его производных.&#x20;
 
