@@ -130,5 +130,5 @@
   * [Удаляем ненужный "мусор"](alt-zero/arkhiv/uborka.md)
   * [ProtonUP-Qt](alt-zero/arkhiv/protonup-qt.md)
   * [YouTube Downloader (yt-dlg)](alt-zero/arkhiv/youtube-downloader-yt-dlg.md)
-  * [Меняем версию ядра](alt-zero/arkhiv/kernel.md)
+  * [Меняем версию ядра](alt-zero/arkhiv/kernel_archived.md)
   * [Не запускаются Flatpak-и](alt-zero/arkhiv/flatpak_bwrap.md)
