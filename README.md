@@ -4,6 +4,8 @@ description: Ты всё-таки решился?!
 
 # 🦉 В самом начале ...
 
+<figure><img src=".gitbook/assets/Снимок экрана от 2025-07-12 16-23-08.png" alt=""><figcaption></figcaption></figure>
+
 ## Какую верcию ALT Linux выбрать?
 
 {% hint style="info" %}
@@ -13,8 +15,6 @@ ALT Linux это отечественный дистрибутив, поддер
 {% embed url="https://youtu.be/5Y0VHJ9H7eY" %}
 Что такое Альт Линукс (ALT Linux)
 {% endembed %}
-
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-12 16-23-08.png" alt=""><figcaption></figcaption></figure>
 
 ### Какие версии Альт Линукс существуют?
 
@@ -40,13 +40,13 @@ ALT Linux это отечественный дистрибутив, поддер
 
 ### Какую версию Альта использует автор проекта PLAFON?
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2024-08-09 09-20-54.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Снимок экрана от 2024-08-09 09-20-54.png" alt=""><figcaption></figcaption></figure>
 
 ### **Для игрового ПК:** [Regular GNOME](http://nightly.altlinux.org/sisyphus/tested/regular-gnome-latest-x86_64.iso) | Все доступные [**регулярки можно посмотреть здесь.**](https://www.altlinux.org/Regular)
 
 ### **Для рабочего ПК (LTS p11):** [**StarterKit Gnome p11**](https://nightly.altlinux.org/p11/release/alt-p11-gnome-20240529-x86_64.iso) | Все доступные [**стартеркиты можно посмотреть здесь**.](https://www.altlinux.org/Starterkits/Download)
 
-<figure><img src="../../.gitbook/assets/414px-Alt_linux_logo.svg.png" alt="ALT linux, Альт Линукс"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/414px-Alt_linux_logo.svg.png" alt="ALT linux, Альт Линукс"><figcaption></figcaption></figure>
 
 С недавнего времени Альт Рабочая станция переехала с рабочего окружения Mate на GNOME и теперь для желающих получить стабильный LTS дистрибутив на своей рабочей машине, может смело вместо "болванки" на StarterKit использовать готовый вариант от [basealt.ru](https://www.basealt.ru/alt-workstation)
 
@@ -54,7 +54,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 ### В [Рабочей станции](https://www.basealt.ru/alt-workstation) 2 варианта рабочего стола
 
-<img src="https://www.basealt.ru/fileadmin/user_upload/products/screens_work/11/1_11__1__1.png" alt="Альт Рабочая станция 8" data-size="original"><img src="../../.gitbook/assets/image (2).png" alt="" data-size="original">
+<img src="https://www.basealt.ru/fileadmin/user_upload/products/screens_work/11/1_11__1__1.png" alt="Альт Рабочая станция 8" data-size="original"><img src=".gitbook/assets/image (2).png" alt="" data-size="original">
 
 ### Где скачать нужный Альт Линукс (ALT Linux) ?!
 
@@ -68,7 +68,7 @@ ALT Linux это отечественный дистрибутив, поддер
 Официальный сайт компании Базальт СПО
 {% endembed %}
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-13 10-49-21.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Снимок экрана от 2025-07-13 10-49-21.png" alt=""><figcaption></figcaption></figure>
 
 ### Рабочая станция | Workstation ( GNOME)
 
@@ -102,7 +102,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 ## Страница загрузки от сообщества
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-06-10 11-18-58.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Снимок экрана от 2023-06-10 11-18-58.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://getalt.org/ru/" %}
 
@@ -138,7 +138,7 @@ ALT Linux это отечественный дистрибутив, поддер
 Фирменная утилита (форк Fedora Media Writer): ALT `Media Writer`
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Altmediawriter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Altmediawriter.png" alt=""><figcaption></figcaption></figure>
 
 Для установки в ALT Linux
 
