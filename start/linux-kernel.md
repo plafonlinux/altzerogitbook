@@ -2,7 +2,9 @@
 description: Всё что вам нужно знать про настройку ядра
 ---
 
-# Настройки ядра
+# Linux Kernel
+
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ## Удаляем неиспользуемые ядра
 
