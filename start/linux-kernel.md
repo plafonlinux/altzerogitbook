@@ -16,11 +16,13 @@ sudo apt-get remove-old-kernels
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
+Ищем доступные заголовки в репозитории:
+
 ```
 epms kernel-headers
 ```
 
-Смотрим какие заголовки доступны и устанавливаем их
+Смотрим какие доступны и устанавливаем в зависимости от своего ядра (например для ядра 6.12):
 
 ```
 epmi kernel-headers-6.12
