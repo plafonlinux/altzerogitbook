@@ -6,7 +6,7 @@ description: Утилита для бекапа вашей системы
 
 Timeshift - это утилита работающая в двух режимах: RSYNC для создания полноценных снимков вашего диска и BTRFS где задействуется особенность файловой системы btrfs и появляется возможность создавать точки восстановления.
 
-<figure><img src="../../../.gitbook/assets/Снимок экрана от 2022-11-09 15-07-01.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Снимок экрана от 2025-07-13 15-09-24.png" alt=""><figcaption></figcaption></figure>
 
 ## Установка
 
