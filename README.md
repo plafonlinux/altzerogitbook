@@ -42,9 +42,9 @@ ALT Linux это отечественный дистрибутив, поддер
 
 <figure><img src=".gitbook/assets/Снимок экрана от 2024-08-09 09-20-54.png" alt=""><figcaption></figcaption></figure>
 
-### **Для игрового ПК:** [Regular GNOME](http://nightly.altlinux.org/sisyphus/tested/regular-gnome-latest-x86_64.iso) | Все доступные [**регулярки можно посмотреть здесь.**](https://www.altlinux.org/Regular)
+**Для игрового ПК:** [Regular GNOME](http://nightly.altlinux.org/sisyphus/tested/regular-gnome-latest-x86_64.iso) | Все доступные [**регулярки можно посмотреть здесь.**](https://www.altlinux.org/Regular)
 
-### **Для рабочего ПК (LTS p11):** [**StarterKit Gnome p11**](https://nightly.altlinux.org/p11/release/alt-p11-gnome-20240529-x86_64.iso) | Все доступные [**стартеркиты можно посмотреть здесь**.](https://www.altlinux.org/Starterkits/Download)
+**Для рабочего ПК (LTS p11):** [**StarterKit Gnome p11**](https://nightly.altlinux.org/p11/release/alt-p11-gnome-20240529-x86_64.iso) | Все доступные [**стартеркиты можно посмотреть здесь**.](https://www.altlinux.org/Starterkits/Download)
 
 <figure><img src=".gitbook/assets/414px-Alt_linux_logo.svg.png" alt="ALT linux, Альт Линукс"><figcaption></figcaption></figure>
 
@@ -54,7 +54,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 {% embed url="https://www.basealt.ru/alt-workstation" %}
 
-### В [Рабочей станции](https://www.basealt.ru/alt-workstation) 2 варианта рабочего стола
+В [Рабочей станции](https://www.basealt.ru/alt-workstation) 2 варианта рабочего стола
 
 <div><figure><img src=".gitbook/assets/Frame_1283.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/1_11__1__1.png" alt=""><figcaption></figcaption></figure></div>
 
@@ -72,7 +72,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 <figure><img src=".gitbook/assets/Снимок экрана от 2025-07-13 10-49-21.png" alt=""><figcaption></figcaption></figure>
 
-### Рабочая станция | Workstation ( GNOME)
+### Рабочая станция | Workstation (GNOME)
 
 {% embed url="https://www.basealt.ru/alt-workstation" %}
 
@@ -92,7 +92,7 @@ ALT Linux это отечественный дистрибутив, поддер
 
 {% embed url="https://www.basealt.ru/alt-server-virtualizacii/description" %}
 
-### Simply Linux | Предлагаемый вариант для домашнего использования
+### Simply Linux (XFCE)
 
 {% embed url="https://www.basealt.ru/simplylinux" %}
 Рабочее окружение XFCE
@@ -130,11 +130,11 @@ ALT Linux это отечественный дистрибутив, поддер
 
 </details>
 
-### Утилитой GNOME Disk
+Утилитой GNOME Disk
 
 {% embed url="https://youtu.be/qXhrbcb6UUU" %}
 
-### ALT Media Writer
+ALT Media Writer
 
 {% hint style="success" %}
 Фирменная утилита (форк Fedora Media Writer): ALT `Media Writer`
