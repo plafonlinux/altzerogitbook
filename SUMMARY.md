@@ -99,6 +99,7 @@
     * [Установка пакетов через Pacman](steam-deck/nerd/pacman.md)
   * [🪖 Эмуляторы](steam-deck/emulyatory/README.md)
     * [Emudeck](steam-deck/emulyatory/emudeck/README.md)
+      * [CSSLoader](steam-deck/emulyatory/emudeck/cssloader.md)
       * [🚀 NonSteamLaunchers](steam-deck/emulyatory/emudeck/nonsteamlaunchers.md)
     * [Где брать ROM-ы](steam-deck/emulyatory/gde-brat-rom-y.md)
   * [🖌️ Кастомизация](steam-deck/kastomizaciya/README.md)
