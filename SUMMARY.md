@@ -100,7 +100,7 @@
   * [🪖 Эмуляторы](steam-deck/emulyatory/README.md)
     * [Emudeck](steam-deck/emulyatory/emudeck/README.md)
       * [CSSLoader](steam-deck/emulyatory/emudeck/cssloader.md)
-      * [🚀 NonSteamLaunchers](steam-deck/emulyatory/emudeck/nonsteamlaunchers.md)
+      * [NonSteamLaunchers](steam-deck/emulyatory/emudeck/nonsteamlaunchers.md)
     * [Где брать ROM-ы](steam-deck/emulyatory/gde-brat-rom-y.md)
   * [🖌️ Кастомизация](steam-deck/kastomizaciya/README.md)
     * [Decky Loader](steam-deck/kastomizaciya/decky-loader/README.md)

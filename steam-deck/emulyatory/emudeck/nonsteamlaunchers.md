@@ -2,7 +2,7 @@
 description: Скрипт, который автоматически ставит UMU & GE-Proton
 ---
 
-# 🚀 NonSteamLaunchers
+# NonSteamLaunchers
 
 <figure><img src="https://github.com/cchrkk/NSLOSD-DL/raw/main/logo.svg" alt=""><figcaption></figcaption></figure>
 
