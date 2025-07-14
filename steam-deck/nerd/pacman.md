@@ -2,18 +2,49 @@
 description: Установка сторонних пакетов используя pacman
 ---
 
-# Установка через Pacman
+# Установка пакетов через Pacman
+
+#### Быстрый старт
+
+{% embed url="https://plafon.gitbook.io/alt-zero/steam-deck/nerd/ustanovka-parolya-superpolzovatelya" %}
+Если вы уже активировали суперпользователя, то пропускаем данный пункт
+{% endembed %}
+
+```
+sudo steamos-readonly disable
+```
+
+```
+sudo pacman-key --init
+```
+
+```
+sudo pacman-key --populate archlinux
+```
+
+```
+sudo pacman -Syu
+```
+
+{% hint style="success" %}
+Если "страшно", то командой ниже, можно включить обратно Read-only для SteamOS. В любом случае все эти манипуляции "слетят" и обнулятся при последующем обновлении SteamOS.
+{% endhint %}
+
+```
+sudo steamos-readonly enable
+```
+
+
+
+
+
+
+
+## Детальное описание всех действий
 
 #### 1. Установите пароль Sudo (если вы еще этого не сделали)
 
 {% embed url="https://plafon.gitbook.io/alt-zero/steam-deck/nerd/ustanovka-parolya-superpolzovatelya" %}
-
-***
-
-* Переключитесь в режим рабочего стола на вашем Steam Deck.
-* Откройте приложение Konsole (терминал).
-* Введите `passwd` и нажмите Enter.
-* Вам будет предложено ввести и подтвердить новый пароль для пользователя `deck`. Это будет ваш пароль sudo.
 
 #### 2. Отключите режим только для чтения
 
