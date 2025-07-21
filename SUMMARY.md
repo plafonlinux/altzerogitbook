@@ -124,6 +124,7 @@
   * [GitHub](terminal/github.md)
   * [Samba](terminal/samba/README.md)
     * [Сетевые папки (NAS)](terminal/samba/nas.md)
+  * [Dconf Editor](terminal/dconf-editor.md)
 * [🧬 Виртуализация](virtualka/README.md)
   * [Gnome Boxes](virtualka/gnome-boxes.md)
   * [QEMU (Virt-manager)](virtualka/qemu-virt-manager.md)
