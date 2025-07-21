@@ -62,6 +62,8 @@
   * [Flatseal](apps/flatseal.md)
   * [Brother принтер](apps/brother-printer.md)
   * [Monic Monitor Control](apps/monic-monitor-control.md)
+  * [Furmark](apps/furmark.md)
+  * [OCCT](apps/occt.md)
 * [🏕️ Расширения](extensions/README.md)
   * [Менеджер расширений](extensions/manager.md)
   * [AppIndicator and Kstatus](extensions/appindicator-and-kstatus.md)
