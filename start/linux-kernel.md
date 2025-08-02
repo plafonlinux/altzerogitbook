@@ -12,6 +12,12 @@ description: Всё что вам нужно знать про настройк�
 sudo remove-old-kernels
 ```
 
+или сразу всё ненужное
+
+```bash
+sudo remove-old-kernels -a
+```
+
 ## Как скачать заголовки (kernel-headers)
 
 <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
