@@ -53,7 +53,7 @@
   * [Bitwarden](apps/bitwarden.md)
   * [YouTube Music](apps/youtube-music.md)
   * [Spotify](apps/spotify.md)
-  * [Folliate](apps/folliate.md)
+  * [Foliate](apps/folliate.md)
   * [Calibre](apps/calibre.md)
   * [Parabolic](apps/parabolic.md)
   * [Ресурсы](apps/resursy.md)
