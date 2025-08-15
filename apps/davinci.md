@@ -135,10 +135,10 @@ sudo rm -rf /opt/resolve/libs/libglib-2.0.so* && sudo rm -rf /opt/resolve/libs/l
 # Устанавливаем строгий режим: скрипт завершится, если какая-либо команда вернет ошибку.
 set -e
 
-echo "--- Начало установки пакетов с помощью 'EPM' ---"
+echo "--- Начало установки необходимых пакетов с помощью 'EPM' ---"
 
 # Шаг 1: Установка пакетов с флагом "-y" для автоматического подтверждения.
-sudo epmi -y libGLU ffmpeg rocm-opencl-runtime hip-runtime-amd
+epmi -y libGLU ffmpeg rocm-opencl-runtime hip-runtime-amd
 
 echo "--- Пакеты успешно установлены ---"
 echo ""
