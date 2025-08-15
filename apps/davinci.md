@@ -34,7 +34,7 @@ unzip DaVinci_Resolve_18.0.4_Linux.zip
 
 ## ДЛЯ ВИДЕОКАРТ AMD RADEON
 
-### Доустанавливаем этот пакет:
+### Устанавливаем эти пакеты:
 
 ```bash
 epmi libGLU ffmpeg rocm-opencl-runtime hip-runtime-amd
