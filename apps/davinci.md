@@ -37,19 +37,7 @@ unzip DaVinci_Resolve_18.0.4_Linux.zip
 ### Доустанавливаем этот пакет:
 
 ```bash
-sudo apt-get isntall libGLU
-```
-
-```bash
-sudo apt-get install ffmpeg
-```
-
-```bash
-sudo apt-get install rocm-opencl-runtime 
-```
-
-```bash
-sudo apt-get install hip-runtime-amd
+epmi libGLU ffmpeg rocm-opencl-runtime hip-runtime-amd
 ```
 
 {% hint style="success" %}
