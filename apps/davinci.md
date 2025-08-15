@@ -4,11 +4,11 @@ description: Лучший видеоредактор
 
 # DaVinci Resolve
 
-<figure><img src="../../.gitbook/assets/uOxMCNPt3TI.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/uOxMCNPt3TI.jpg" alt=""><figcaption></figcaption></figure>
 
 ## Качаем и устанавливаем сам DaVinci Resolve
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-10-30 18-20-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2022-10-30 18-20-53.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.blackmagicdesign.com/products/davinciresolve" %}
 
@@ -56,7 +56,7 @@ sudo apt-get install hip-runtime-amd
 Теперь всё и для лагеря "красных"! Приятного творчества и нам :tada::clap:
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2022-11-01 09-39-04.png" alt="amd radeon fedora linux mesa opencl"><figcaption><p>Видеокарта AMD Radeon отображается корректно в Fedora Linux</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2022-11-01 09-39-04.png" alt="amd radeon fedora linux mesa opencl"><figcaption><p>Видеокарта AMD Radeon отображается корректно в Fedora Linux</p></figcaption></figure>
 
 Проверяем всё ли работает утилитой `clinfo`
 
@@ -117,23 +117,13 @@ Number of devices                                 1
 /opt/resolve/bin/resolve: symbol lookup error: /lib64/libgdk_pixbuf-2.0.so.0: undefined symbol: g_task_set_static_name
 ```
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2024-05-01 11-54-39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2024-05-01 11-54-39.png" alt=""><figcaption></figcaption></figure>
 
 ### Решение:
 
 ```bash
-sudo rm -rf /opt/resolve/libs/libglib-2.0.so*
+sudo rm -rf /opt/resolve/libs/libglib-2.0.so* && sudo rm -rf /opt/resolve/libs/libgio-2.0.so* && sudo rm -rf /opt/resolve/libs/libgmodule-2.0.so*
 ```
-
-```bash
-sudo rm -rf /opt/resolve/libs/libgio-2.0.so*
-```
-
-```bash
-sudo rm -rf /opt/resolve/libs/libgmodule-2.0.so*
-```
-
-
 
 ### Ошибка: libpango undefined symbol: g\_string\_free\_and\_steal <a href="#post-title-t3_12z32r1" id="post-title-t3_12z32r1"></a>
 
@@ -147,7 +137,7 @@ sudo rm -rf /opt/resolve/libs/libgmodule-2.0.so*
 
 ### Удалить все по запросу `glib` в папке /opt/resolve/libs
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2024-03-16 22-40-23.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2024-03-16 22-40-23.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -191,10 +181,10 @@ sudo rm -rf /opt/resolve/libs/libgmodule-2.0.so*
 
 ### РЕШЕНО: DaVinci не запускается на версии ядра 6.6.\*
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-12-17 22-57-37.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2023-12-17 22-57-37.png" alt=""><figcaption></figcaption></figure>
 
 Решение:
 
 Перейти на версию ядра LTS, я перешёл на un-std
 
-<figure><img src="../../.gitbook/assets/Снимок экрана от 2023-12-18 22-39-53.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Снимок экрана от 2023-12-18 22-39-53.png" alt=""><figcaption></figcaption></figure>
