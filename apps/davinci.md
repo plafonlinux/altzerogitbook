@@ -127,7 +127,32 @@ sudo rm -rf /opt/resolve/libs/libglib-2.0.so* && sudo rm -rf /opt/resolve/libs/l
 
 <figure><img src="../.gitbook/assets/Снимок экрана от 2024-03-16 22-40-23.png" alt=""><figcaption></figcaption></figure>
 
+Либо используйте маленький скрипт для автоматизации этих действий
 
+```bash
+!/bin/bash
+
+# Устанавливаем строгий режим: скрипт завершится, если какая-либо команда вернет ошибку.
+set -e
+
+echo "--- Начало установки пакетов с помощью 'EPM' ---"
+
+# Шаг 1: Установка пакетов с флагом "-y" для автоматического подтверждения.
+sudo epmi -y libGLU ffmpeg rocm-opencl-runtime hip-runtime-amd
+
+echo "--- Пакеты успешно установлены ---"
+echo ""
+echo "--- Начало удаления конфликтующих библиотек DaVinci Resolve ---"
+
+# Шаг 2: Удаление указанных библиотек.
+sudo rm -rf /opt/resolve/libs/libglib-2.0.so*
+sudo rm -rf /opt/resolve/libs/libgio-2.0.so*
+sudo rm -rf /opt/resolve/libs/libgmodule-2.0.so*
+
+echo "--- Библиотеки успешно удалены ---"
+echo ""
+echo "Скрипт успешно завершил свою работу."
+```
 
 
 
