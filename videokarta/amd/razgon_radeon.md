@@ -50,18 +50,35 @@ sudo update-grub
 
 В атомарной версии дистрибутива для запуска системы используется bootc
 
-Вы можете добавить эти параметры, создав файл конфигурации TOML в каталоге `/usr/lib/bootc/kargs.d/`.
-
-Создайте файл с расширением `.toml`
+Редактируем конфигурацию образа
 
 ```bash
-sudo nano /usr/lib/bootc/kargs.d/30-amdgpu-params.toml
+sudo nano /etc/apm/image.yml
 ```
 
-Добавьте следующие строки в файл:
+В секцию commands: необходимо добавить наши параметры в виде массива:
 
 ```toml
-kargs = ["amdgpu.ppfeaturemask=0xffffffff", "radeon.cik_support=0", "amdgpu.cik_support=1"]
+commands:
+    - 'echo "kargs = [\"amdgpu.ppfeaturemask=0xffffffff\", \"radeon.cik_support=0\", \"amdgpu.cik_support=1\"]" > /usr/lib/bootc/kargs.d/01-my_flag.toml'
 ```
 
-После сохранения файла bootc автоматически применит эти параметры ядра при следующей загрузке.
+Должно получиться вот так:
+
+{% hint style="danger" %}
+Существует баг, пока не пофиксили, но секция install не должна быть пустой. Я поставил например tmux, можно выбрать любой пакет без разницы.
+{% endhint %}
+
+<figure><img src="../../.gitbook/assets/photo_2025-08-22_17-29-13.jpg" alt=""><figcaption></figcaption></figure>
+
+После этого пересобираем образ с применением настроек:
+
+```
+apm s image apply
+```
+
+<figure><img src="../../.gitbook/assets/photo_2025-08-22_17-32-03.jpg" alt=""><figcaption></figcaption></figure>
+
+Перезагружаем систему и теперь всё работает
+
+<figure><img src="../../.gitbook/assets/photo_2025-08-22_17-33-51.jpg" alt=""><figcaption></figcaption></figure>
