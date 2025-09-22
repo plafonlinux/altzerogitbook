@@ -27,7 +27,7 @@ description: Очень частый вопрос, поэтому вот все 
 **RAM:** Crucial Ballistix DDR4 32gb 3600mhz\
 **SSD:** ADATA NVME SX8200PNP 1TB
 
-## Переферия
+## Периферия
 
 Клавиатура: Logitech MX Keys\
 Мышь: Logitech MX Master 3 Black\
