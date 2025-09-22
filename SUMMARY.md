@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🦉 В самом начале ...](README.md)
-  * [Мой компьютер](start/moi-kompyuter.md)
+  * [Мой компьютер](start/plafonpc.md)
   * [Установка ALT Linux](start/ustanovka.md)
   * [Включаем sudo](start/sudo.md)
   * [Обновление системы](start/upgrade.md)
