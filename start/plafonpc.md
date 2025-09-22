@@ -8,6 +8,25 @@ description: Очень частый вопрос, поэтому вот все 
 
 ## Рабочая станция (изначально игровая):
 
+<details>
+
+<summary>Система (Сентябрь 2025)</summary>
+
+ОС: ALT P11 StarterKit\
+Ядро: Linux 6.12.45-6.12-alt1\
+Пакетов в системе: 2053 (rpm), 73 (flatpak)\
+Shell: zsh\
+Терминал: ptyxis\
+Driver: AMDGPU Mesa 25.1.9\
+Display Server: Wayland\
+Разрешение экрана: 3440x1440\
+Рабочее окружение: GNOME 47.4\
+Оконный менеджер: Mutter\
+Тема: Adwaita Dark\
+Icons: Papirus Dark
+
+</details>
+
 **MoBo:** B650 AOURUS ELITE AX\
 **CPU:** AMD Ryzen 5 7600X 6 ядер 12 потоков 5.45 Ghz\
 **GPU:** AMD Radeon RX 7900 XTX\
