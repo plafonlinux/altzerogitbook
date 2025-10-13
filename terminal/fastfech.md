@@ -20,11 +20,11 @@ epmi fastfetch
 
 ### Установка шрифтов
 
-01\. Качаем архив со шрифтами и закидываем в папку .fonts в Домашнем каталоге
+01\. Устанавливаем необходимые шрифты
 
-{% file src="../.gitbook/assets/FiraCode.zip" %}
-
-<figure><img src="../.gitbook/assets/Снимок экрана от 2024-08-09 09-04-25.png" alt=""><figcaption></figcaption></figure>
+```bash
+epmi fonts-ttf-fira-code-nerd
+```
 
 02\. Включаем кастомный шрифт в своём терминале
 
