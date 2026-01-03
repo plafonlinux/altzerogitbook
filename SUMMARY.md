@@ -38,6 +38,7 @@
   * [VK Звонки](apps/vkcalls.md)
   * [TrueConf](apps/trueconf.md)
   * [Zoom](apps/zoom.md)
+  * [Aurynk](apps/aurynk.md)
   * [Работа  с документами (Офисы)](apps/office/README.md)
     * [LibreOffice](apps/office/libreoffice.md)
     * [OnlyOffice](apps/office/onlyoffice.md)
