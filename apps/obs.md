@@ -30,6 +30,16 @@ flatpak install flathub com.obsproject.Studio
 flatpak install flathub com.obsproject.Studio.Plugin.WaylandHotkeys
 ```
 
+Чтобы повторно вызвать данное меню с назначением шорткатов:
+
+01\. Открываем Настройки GNOME - Приложения - OBS Studio
+
+<figure><img src="../.gitbook/assets/Снимок экрана от 2026-01-05 14-39-30.png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 Другие плагины для OBS Studio
 
 ```bash
