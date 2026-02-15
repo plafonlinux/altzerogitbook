@@ -120,6 +120,7 @@
     * [Консольные команды для GNU/Linux](terminal/terminal_start/terminal_all.md)
     * [VIM](terminal/terminal_start/vim.md)
   * [Терминал на ZSH](terminal/zsh.md)
+  * [Ptyxis](terminal/ptyxis.md)
   * [Alacritty](terminal/alacritty.md)
   * [Fastfech](terminal/fastfech.md)
   * [Алиасы](terminal/alias.md)
