@@ -6,13 +6,27 @@ description: Набор моих любимых обоин, может вам н
 
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
+Новый пак 2026:
+
+{% embed url="https://oboi.plafon.org/s/2026_ultrawide" %}
+
+Базовый набор:
+
 {% embed url="https://oboi.plafon.org/share/uoG2FdTqsmUY6E1NgVykV1QlOu3j9m6fwhLCpajByUaSJMkeEE_XQq0yKHqPDa5PTLA" %}
 
-И бонусом GNOME 4K Edition
+И бонусом GNOME 4K Edition:
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://oboi.plafon.org/share/ABxFbbWrWEYzbp4oLuYL1NXEykoAOVLgdOLXu8EChJilNP217G8urStreYcWCPIF5to" %}
+
+Набор минималистичных:
+
+{% embed url="https://archimg.cc/" %}
+
+
+
+
 
 
 
