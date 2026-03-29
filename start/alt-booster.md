@@ -1,0 +1,7 @@
+---
+description: ALT Booster утилита компаньон для настройки ALT Workstation (GNOME)
+---
+
+# ALT Booster
+
+<div><figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-30.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-36.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-38.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-44.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-46.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-49.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-52.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-56.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-56-58.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-57-09.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-57-06.png" alt=""><figcaption></figcaption></figure></div>

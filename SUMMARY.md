@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🦉 В самом начале ...](README.md)
+  * [ALT Booster](start/alt-booster.md)
   * [Мой компьютер](start/plafonpc.md)
   * [Установка ALT Linux](start/ustanovka.md)
   * [Включаем sudo](start/sudo.md)
