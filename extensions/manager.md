@@ -28,7 +28,7 @@ flatpak install flathub com.mattjakeman.ExtensionManager
 
 ### Мой основной список расширений
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Включаем трэй: `Appindicator Kstatus`&#x20;
 

@@ -65,3 +65,9 @@ alias n="fastfetch --logo PostMarketOS_small -c '/home/plafon/Документы
 ```bash
 fastfetch -c /путь/до-конфига.conf
 ```
+
+### Второй конфиг
+
+<figure><img src="../.gitbook/assets/Снимок экрана от 2026-03-29 11-38-23.png" alt=""><figcaption></figcaption></figure>
+
+{% file src="../.gitbook/assets/config.jsonc" %}
